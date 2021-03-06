@@ -43,7 +43,7 @@
     startii=loadImage("start.jpg");
     abouti=loadImage("about.png");
     homei=loadImage("home.png");
-    ei1=loadImage("EARTHHAPPY.png");
+    ei1=loadImage("Earthhappy.png");
     ei2=loadImage("sadearthmain.png");
     bottleimage=loadImage("energydrink.png");
     jumpsound=loadSound("jump.mp3")
